@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Alexe31
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @Nobio666x
 
-<!---
-Alexe31/Alexe31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+ ![IMG_20220929_092614_348](https://user-images.githubusercontent.com/63509929/193194329-67b61755-df6f-477c-a99c-d58099d28f56.jpg)
